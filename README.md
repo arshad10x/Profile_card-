@@ -11,4 +11,6 @@ View [Here](https://cool-froyo-128ce8.netlify.app/)
 
 ## Screenshots
 
+### Frontend Mentor Challenge
+
 ![2022-09-28 (2)](https://user-images.githubusercontent.com/76579075/192621403-b91a803e-3196-4e8b-9a53-b9a0f3d8a5b4.png)
