@@ -7,7 +7,7 @@ View [Here](https://cool-froyo-128ce8.netlify.app/)
 ## Technology stack
 
 ![](https://img.shields.io/badge/Markdown-HTML-informational)\
-![](https://img.shields.io/badge/Frontend-CSS-blue)\
+![](https://img.shields.io/badge/Frontend-CSS-blue)
 
 ## Screenshots
 
